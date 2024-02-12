@@ -9,4 +9,4 @@ In the following repository you will find:
 3) A global dataset in an excel file.
 
 Zineb BOUSBAA,
-Phd student at Cadi Ayyad University
+Docteur en Informatique
